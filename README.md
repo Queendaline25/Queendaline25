@@ -1,21 +1,27 @@
 ## Hi there 👋
 
+### I’m Chinwendu Ezikeanyi, a Data analyst.
 
-**Welcome to my Github profile. I 'm Queendaline, an aspiring Data Analyst**
+I’m a Data Analyst based in Bristol with hands‑on experience working in NHS operational and mental‑health settings. I enjoy turning complex datasets into clear insights that support patient care, service improvement, and evidence‑based decision‑making. I’m also building toward a future transition into data engineering.
 
-I am currently enrolled in the [data analyst bootcamp](https://codingblackfemales.com/programmes?p=databootcamp)  of the coding black females called the Berry cohort.
-In this bootcamp, I will be consistently updating my repo on Github each week with whatever I have learnt.
-Also, as part of the bootcamp curriculum, I will be focusing on:
+### Skills
+- SQL, Python, Power BI, Looker Studio, Excel
+- Data cleaning, validation, modelling, and reporting
+- KPI development, trend analysis, and performance dashboards
+- NHS datasets: RTT, DM01, RiO, operational metrics
+- Communicating insights to non‑technical stakeholders
 
-- Command Line and Git
-- Using AI in Technical roles
-- Data Wrangling and Transformation
-- Data Visualisation and Storytelling
-- Leadership and Employability
-- Data Ethics and Bias
-- Sustainability in Technical Roles
+### Featured Work
+RTT Waiting Times Analysis & Dashboard An end‑to‑end analysis of NHS England RTT data, including data cleaning, modelling, KPI creation, and a multi‑page interactive dashboard.
+
+Explore: (https://github.com/Queendaline25/CBF_Project_NHSWaiting_Times)
+
+### Current Work
+- Strengthening SQL, Python, and data modelling
+- Building more public‑sector analytics projects
+- Preparing for future data engineering training
+- Exploring automation, forecasting, and cloud workflows
   
-And generally, my focus area are: **data visualizations,SQL,Python and business intelligence**
-
-I’m open to collaborate on any of my above focus areas
+### Connect
+I enjoy collaborating on health analytics and public‑sector data projects.
 You can reach me on [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://uk.linkedin.com/in/chinwendu-ezikeanyi-ba681a49?original_referer=https%3A%2F%2Fwww.google.com%2F)
