@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I’m Chinwendu Ezikeanyi, a Data analyst.
+### I’m Chinwendu Queendaline Ezikeanyi, a Data analyst.
 
 I’m a Data Analyst based in Bristol with hands‑on experience working in NHS operational and mental‑health settings. I enjoy turning complex datasets into clear insights that support patient care, service improvement, and evidence‑based decision‑making. I’m also building toward a future transition into data engineering.
 
